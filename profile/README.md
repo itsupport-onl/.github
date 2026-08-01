@@ -14,11 +14,12 @@ to the projects we build on.
 
 ### Our projects
 
-**[qonto_banking](https://github.com/itsupport-onl/qonto_banking)** — a Frappe
-app that brings [Qonto](https://qonto.com) transactions into ERPNext for bank
-reconciliation, without CSV exports or manual uploads. It reads from the Qonto
-API and stops there: it never books anything and cannot move money. AGPL-3.0,
-free to use, commercial support available.
+**[erpnext_qonto_banking](https://github.com/itsupport-onl/erpnext_qonto_banking)**
+— a Frappe app that brings [Qonto](https://qonto.com) transactions into ERPNext
+for bank reconciliation, without CSV exports or manual uploads. It reads from
+the Qonto API and stops there: it never books anything and cannot move money.
+Runs on ERPNext v15 and v16. AGPL-3.0, free to use, commercial support
+available.
 
 ### Contributing
 
